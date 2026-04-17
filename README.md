@@ -14,6 +14,10 @@ DS Prototype 040615 (E3 Era)
 - Released by: Forest of Illusion
 - Information: One of the earliest known firmware builds. This version dates back to the time of E3 2004.
 
+<p align="center">
+  <img src="Image/040615.png" alt="040615">
+</p>
+
 ### 40820D
 DS Prototype 40820D (X4)
 

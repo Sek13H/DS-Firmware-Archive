@@ -26,3 +26,7 @@ DS Prototype 40820D (X4)
 - Status: Find. Rare Pre-launch Prototype (X4 Hardware Revision)
 - Released by: Forest of Illusion
 - Information: The earliest (after 040615) firmware version known to us at the moment has fundamental differences from the release.
+
+<p align="center">
+  <img src="Image/40820D.png" alt="040615">
+</p>

@@ -42,5 +42,5 @@ DS Release V1
 - Information: It was released in the first days of DS sales. When I remove the cartridge from PictoChat it just freezes.
 
 <p align="center">
-  <img src="Image/v1.png" alt="040615">
+  <img src="Image/v1.png" width="256" alt="040615">
 </p>

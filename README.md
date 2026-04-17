@@ -4,6 +4,7 @@ Full collection DS Firmware, BIOS
 ## Content
 - [040615](#040615)
 - [40820D](#40820D)
+- [v1](#v1)
 
 ### 040615
 DS Prototype 040615 (E3 Era)
@@ -29,4 +30,17 @@ DS Prototype 40820D (X4)
 
 <p align="center">
   <img src="Image/40820D.png" alt="040615">
+</p>
+
+### v1
+
+DS Release V1
+
+- Build Date: November, 2004 (2004-11)
+- Status: Find. Rare.
+- Released by: Nintendo
+- Information: It was released in the first days of DS sales. When I remove the cartridge from PictoChat it just freezes.
+
+<p align="center">
+  <img src="Image/v1.png" alt="040615">
 </p>

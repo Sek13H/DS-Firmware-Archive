@@ -14,6 +14,7 @@ This repository is for educational and preservation purposes only. All copyright
 - [v5 Beta](#v5Beta)
 - [v5](#v5)
 - [X2 DS Lite](#x2)
+- [v5 DS Lite](#v5Lite)
 
 ### 040615
 DS Prototype 040615 (E3 Era)
@@ -140,6 +141,19 @@ DS Lite Prototype (X2)
 - Status: Found. Ultra-Rare.
 - Released by: Nintendo Found: Forest of Illusion
 - Information: Prototype DS Lite. When removing the cartridge from PictoChat, the screen turns magenta.
+
+<p align="center">
+  <img src="Image/v5.png" width="256" alt="040615">
+</p>
+
+### v5Lite
+
+DS Lite Release V5
+
+- Build Date: Spring, 2006 (2006)
+- Status: Found. Common.
+- Released by: Nintendo
+- Information: Some bugs have been fixed. When removing the cartridge from PictoChat, the screen turns magenta. DS Lite v5 version.
 
 <p align="center">
   <img src="Image/v5.png" width="256" alt="040615">

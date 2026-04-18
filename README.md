@@ -8,6 +8,7 @@ This repository is for educational and preservation purposes only. All copyright
 - [40820D](#40820D)
 - [v1](#v1)
 - [v2](#v2)
+- [v3](#v3)
 
 ### 040615
 DS Prototype 040615 (E3 Era)
@@ -27,7 +28,7 @@ DS Prototype 40820D (X4)
 
 - Build Date: August 20, 2004 (2004-08-20)?
 - File release date: July 30, 2022 (2022-07-30)
-- Status: Find. Rare Pre-launch Prototype (X4 Hardware Revision)
+- Status: Find. Ultra-rare Pre-launch Prototype (X4 Hardware Revision)
 - Released by: Nintendo, Found: Forest of Illusion
 - Information: The earliest (after 040615) firmware version known to us at the moment has fundamental differences from the release.
 
@@ -61,3 +62,15 @@ DS Release V2
   <img src="Image/v2.png" width="256" alt="040615">
 </p>
 
+### v3
+
+DS Release V3
+
+- Build Date: February, 2005 (2005-02)
+- Status: Find. Rare.
+- Released by: Nintendo
+- Information: Some bugs have been fixed. When removing the cartridge from PictoChat, the screen turns dark-green.
+
+<p align="center">
+  <img src="Image/v3.png" width="256" alt="040615">
+</p>

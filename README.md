@@ -1,6 +1,8 @@
 # DS-Firmware-Archive
 Full collection DS Firmware, BIOS
 
+This repository is for educational and preservation purposes only. All copyrights belong to Nintendo Co., Ltd.
+
 ## Content
 - [040615](#040615)
 - [40820D](#40820D)

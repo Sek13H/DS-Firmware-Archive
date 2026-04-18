@@ -14,6 +14,7 @@ This repository is for educational and preservation purposes only. All copyright
 - [v5 Beta](#v5Beta)
 - [v5](#v5)
 - [X2 DS Lite](#x2)
+- [Wi-Fi Kiosk](#Wi-Fi)
 - [v5 DS Lite](#v5Lite)
 
 ### 040615
@@ -144,6 +145,19 @@ DS Lite Prototype (X2)
 
 <p align="center">
   <img src="Image/v5.png" width="256" alt="040615">
+</p>
+
+### Wi-Fi
+
+Wi-Fi Kiosk Version
+
+- Build Date: Winter, 2006 (2006)
+- Status: Found. Super-Rare.
+- Released by: Nintendo
+- Information: Wi-Fi Kiosk Version.
+
+<p align="center">
+  <img src="Image/Wi-Fi.png" width="256" alt="040615">
 </p>
 
 ### v5Lite

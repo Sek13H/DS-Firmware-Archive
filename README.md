@@ -9,6 +9,7 @@ This repository is for educational and preservation purposes only. All copyright
 - [v1](#v1)
 - [v2](#v2)
 - [v3](#v3)
+- [iQue DS](#iQueDS)
 
 ### 040615
 DS Prototype 040615 (E3 Era)
@@ -73,4 +74,17 @@ DS Release V3
 
 <p align="center">
   <img src="Image/v3.png" width="256" alt="040615">
+</p>
+
+### iQueDS
+
+DS China Release V3
+
+- Build Date: Spring, 2005 (2005)
+- Status: Find. Super-Rare.
+- Released by: Nintendo (iQue)
+- Information: Modified version v3. When removing the cartridge from PictoChat, the screen turns dark-green. Chinese language was added (hence the size of 512 KB). Nintendo logo changed to iQue.
+
+<p align="center">
+  <img src="Image/iQue.png" width="256" alt="040615">
 </p>

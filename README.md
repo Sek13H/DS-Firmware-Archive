@@ -197,4 +197,6 @@ DS Lite Release V5 Korea
 - Released by: Nintendo
 - Information: V5 Korea Version. When removing the cartridge from PictoChat, the screen turns magenta. 
 
-
+<p align="center">
+  <img src="Image/v5.png" width="256" alt="040615">
+</p>

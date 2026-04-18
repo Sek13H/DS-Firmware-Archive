@@ -132,7 +132,7 @@ DS Release V5
   <img src="Image/v5.png" width="256" alt="040615">
 </p>
 
-### X2 DS Lite
+### x2
 
 DS Lite Prototype (X2)
 

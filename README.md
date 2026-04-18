@@ -17,6 +17,7 @@ This repository is for educational and preservation purposes only. All copyright
 - [Wi-Fi Kiosk](#Wi-Fi)
 - [v5 DS Lite](#v5Lite)
 - [iQue DS Lite](#iQueDSLite)
+- [v5 Korea](#v5Korea)
 
 ### 040615
 DS Prototype 040615 (E3 Era)
@@ -186,3 +187,14 @@ DS Lite China Release V5
 <p align="center">
   <img src="Image/iQue.png" width="256" alt="040615">
 </p>
+
+### v5Korea
+
+DS Lite Release V5 Korea
+
+- Build Date: Autumn, 2006 (2006)
+- Status: Found. Rare.
+- Released by: Nintendo
+- Information: V5 Korea Version. When removing the cartridge from PictoChat, the screen turns magenta. 
+
+

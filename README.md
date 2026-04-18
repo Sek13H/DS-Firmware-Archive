@@ -10,6 +10,7 @@ This repository is for educational and preservation purposes only. All copyright
 - [v2](#v2)
 - [v3](#v3)
 - [iQue DS](#iQueDS)
+- [v4](#v4)
 
 ### 040615
 DS Prototype 040615 (E3 Era)
@@ -87,4 +88,17 @@ DS China Release V3
 
 <p align="center">
   <img src="Image/iQue.png" width="256" alt="040615">
+</p>
+
+### v4
+
+DS Release V4
+
+- Build Date: Summer, 2005 (2005)
+- Status: Find. Common.
+- Released by: Nintendo
+- Information: Some bugs have been fixed. When removing the cartridge from PictoChat, the screen turns yellow.
+
+<p align="center">
+  <img src="Image/v4.png" width="256" alt="040615">
 </p>

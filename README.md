@@ -18,6 +18,8 @@ This repository is for educational and preservation purposes only. All copyright
 - [v5 DS Lite](#v5Lite)
 - [iQue DS Lite](#iQueDSLite)
 - [v5 Korea](#v5Korea)
+- [v6](#v6)
+- [v7](#v7)
 
 ### 040615
 DS Prototype 040615 (E3 Era)
@@ -200,3 +202,21 @@ DS Lite Release V5 Korea
 <p align="center">
   <img src="Image/v5.png" width="256" alt="040615">
 </p>
+
+### v6
+
+DS Lite Release V6
+
+- Build Date: 2007 (2007)
+- Status: Missing (Searching...). Rare.
+- Released by: Nintendo
+- Information: Found in later DS Lite revisions. When removing the cartridge from PictoChat, the screen turns dark-blue. 
+
+### v7
+
+DS Lite Release V7
+
+- Build Date: 2007-2008
+- Status: Missing (Searching...). Rare.
+- Released by: Nintendo
+- Information: The rarest retail firmware version. When removing the cartridge from PictoChat, nothing happens...

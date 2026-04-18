@@ -16,6 +16,7 @@ This repository is for educational and preservation purposes only. All copyright
 - [X2 DS Lite](#x2)
 - [Wi-Fi Kiosk](#Wi-Fi)
 - [v5 DS Lite](#v5Lite)
+- [iQue DS Lite](#iQueDSLite)
 
 ### 040615
 DS Prototype 040615 (E3 Era)
@@ -171,4 +172,17 @@ DS Lite Release V5
 
 <p align="center">
   <img src="Image/v5.png" width="256" alt="040615">
+</p>
+
+### iQueDSLite
+
+DS Lite China Release V5
+
+- Build Date: Spring, 2006 (2006)
+- Status: Found. Rare.
+- Released by: Nintendo (iQue)
+- Information: Modified version v5. When removing the cartridge from PictoChat, the screen turns magenta. Chinese language was added (hence the size of 512 KB). Nintendo logo changed to iQue.
+
+<p align="center">
+  <img src="Image/iQue.png" width="256" alt="040615">
 </p>

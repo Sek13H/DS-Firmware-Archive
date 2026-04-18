@@ -39,7 +39,7 @@ DS Release V1
 - Build Date: November, 2004 (2004-11)
 - Status: Find. Rare.
 - Released by: Nintendo
-- Information: It was released in the first days of DS sales. When I remove the cartridge from PictoChat it just freezes.
+- Information: It was released in the first days of DS sales. When you remove the cartridge from PictoChat, it simply freezes.
 
 <p align="center">
   <img src="Image/v1.png" width="256" alt="040615">
